@@ -6,9 +6,15 @@ This project creates:
 - Security group
 
 ## Deploy
+
+```
 terraform init
 terraform plan
 terraform apply
+```
 
 ## Destroy
+
+```
 terraform destroy
+```
