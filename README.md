@@ -4,7 +4,6 @@ This project creates:
 - EC2 web server
 - S3 bucket
 - Security group
-- IAM role for EC2
 
 ## Deploy
 terraform init
